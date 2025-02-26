@@ -57,8 +57,8 @@ I actively participate in **competitive programming**, solving **algorithmic cha
 ---
 
 ## 📫 Connect With Me  
-🔗 **GitHub**: ELANSARI05(https://github.com/your-username)  
-📧 **Email**: Mouad.ELANSARI@um6p.ma(mailto:your.email@example.com)  
-💼 **LinkedIn**: Mouad Elansari(https://linkedin.com/in/yourprofile)  
+🔗 **GitHub**: ELANSARI05(https://github.com/ELANSARI05)  
+📧 **Email**: Mouad.ELANSARI@um6p.ma
+💼 **LinkedIn**: Mouad Elansari(https://www.linkedin.com/in/mouad-elansari-2b9380267/)  
 
 Let's collaborate on exciting projects! 🚀  
